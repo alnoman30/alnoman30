@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/1.gif" alt="Banner" />
+  <img src="assets/1.gif" alt="Banner" style="max-width: 100%; height: auto;" />
   <br>
   <p>Check out my Portfolio: https://alnoman.vercel.app</p>
 </p>
