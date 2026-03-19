@@ -3,12 +3,12 @@
   <br>
   <p>Check out my website: https://alnoman.vercel.app</p>
 </p>
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey, What's up?</h1>
 
 
 ###
 
-<p align="left">🚀 My name is <b>Abdullah Al Noman</b> ⋆˙⟡<br>🔥 A passionate FullStack Laravel developer based in Dhaka, Bangladesh.</p>
+<p align="left">My name is <b>Abdullah Al Noman</b> ⋆˙⟡<br>A passionate FullStack Laravel developer based in Dhaka, Bangladesh.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2002 😅<br>📚 I'm currently learning: Advanced React, animations, and performance optimization<br>🎯 Goals: To build smooth, user-friendly web experiences that people actually enjoy using<br>🎲 Fun fact: I’m funny enough to make my console laugh with console.log("😂")</p>
+<p align="left">➤ Creating bugs since: 2002 😅<br>➤ I'm currently learning: Advanced React, animations, and performance optimization<br>➤ Goals: To build smooth, user-friendly web experiences that people actually enjoy using<br>➤ Fun fact: I’m funny enough to make my console laugh with console.log("😂")</p>
 
 ###
 
