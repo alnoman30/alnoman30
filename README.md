@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/1.gif" alt="Banner" />
   <br>
-  <p>Check out my website: https://alnoman.vercel.app</p>
+  <p>Check out my Portfolio: https://alnoman.vercel.app</p>
 </p>
 <h1 align="left">Hey, What's up?</h1>
 
