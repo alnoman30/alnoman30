@@ -1,9 +1,14 @@
-![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+<p align="center">
+  <img src="assets/1.gif" alt="Banner" />
+  <br>
+  <p>Check out my website: https://alnoman.vercel.app</p>
+</p>
 <h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
-<p align="left">🚀 My name is Abdullah Al Noman ⋆˙⟡<br>🔥 A passionate FullStack Laravel developer based in Dhaka, Bangladesh.</p>
+<p align="left">🚀 My name is <b>Abdullah Al Noman</b> ⋆˙⟡<br>🔥 A passionate FullStack Laravel developer based in Dhaka, Bangladesh.</p>
 
 ###
 
