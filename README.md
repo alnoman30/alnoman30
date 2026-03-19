@@ -12,13 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">➤ Creating bugs since: 2002 😅<br>➤ I'm currently learning: Advanced React, animations, and performance optimization<br>➤ Goals: To build smooth, user-friendly web experiences that people actually enjoy using<br>➤ Fun fact: I’m funny enough to make my console laugh with console.log("😂")</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
