@@ -70,4 +70,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=560&lines=Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
 </p>
-
+<picture data-importer="pacman">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alnoman30/alnoman30/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alnoman30/alnoman30/pacman-output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/alnoman30/alnoman30/pacman-output/pacman-contribution-graph.svg"
+  />
+</picture>
